@@ -1,0 +1,12 @@
+<update>
+<version>tva</version>
+<newota>753</newota>
+<force>0</force>
+<url>http://update.uforone.net/IPTV/tva7.5.3-20250305.apk</url>
+<md5>05C406B0018DCF5E47151D0AB720B9B6</md5>
+<usediff>0</usediff>
+<showqrweb>0</showqrweb>
+<qrurl>http://update.uforone.net/etv.html</qrurl>
+<description country="US" language="en">1.fix some bugs</description>
+<log  version="v5.4.2-20230701">1.hello,tva</log>
+</update>
